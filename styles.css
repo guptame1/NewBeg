@@ -1,0 +1,17 @@
+body{
+    background-color:#c3aed6;
+}
+
+hr {
+
+  border-style:dotted none none none ;
+  border-color: pink;
+  border-width: 3px;
+  width: 4%;
+
+}
+
+h3{
+    font-style: italic;
+    color: #de4463;
+}
